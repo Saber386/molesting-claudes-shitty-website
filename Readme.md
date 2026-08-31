@@ -1,4 +1,4 @@
-# Claude Made It. I Broke It. 💀
+# Claude Made It. I Broke It.
 
 Claude was responsible for writing the application.
 
